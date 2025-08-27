@@ -5,7 +5,7 @@
     double num = Math.random();
     if (num > 0.95) {
   %>
-      <h2>You'll have a luck dayokok!</h2><p>(<%= num %>)</p>
+      <h2>You'll have a luck ldayokok!</h2><p>(<%= num %>)</p>
   <%
     } else {
   %>
@@ -17,4 +17,5 @@
 </body>
 
 </html>
+
 
